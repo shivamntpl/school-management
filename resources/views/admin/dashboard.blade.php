@@ -15,7 +15,7 @@
             <div class="card-header">
                 <div>
                     <p class="card-title text-white">
-                        Total Students
+                        All Students
                     </p>
 
                     <p class="card-value">
